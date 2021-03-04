@@ -1,8 +1,6 @@
 ## Welcome to King Explosion's GitHub Page (Gabriel Salazar)
 
-You can use the [editor on GitHub](https://github.com/King-Explosion/King-Explosion.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You have made it to my webpage. Now it's time to send you back. JK! I won't so don't worry!
 
 ### Markdown
 
@@ -11,7 +9,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# About Me
+  I am Gabriel Salazar and I am a student who wants to work in the computer field. I love to play video games, travel, watching TV and spending time with my family. I am a high school senior.
 ## Header 2
 ### Header 3
 
