@@ -9,16 +9,16 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# About Me
-  I am Gabriel Salazar and I am a student who wants to work in the computer field. I love to play video games, travel, watching TV and spending time with my family. I am a high school senior.
-## Header 2
+# **About Me**
+  I am Gabriel Salazar and I am a high school senior who wants to work in the computer science field. I love to play video games, travel, watching TV and spending time with my family. 
+## **Some links that I have:** 
+LinkedIn: https://www.linkedin.com/in/gabriel-salazar-bb6b3a210?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bjr9Di9JBRwu2lfqBmIFdWA%3D%3D
+
+Github: https://github.com/King-Explosion
+
 ### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
